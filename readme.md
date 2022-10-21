@@ -1,4 +1,4 @@
-# Algorithme pour somme, différence et produit
+# Algorithme pour somme, différence et produit.
 
 ## Description
 L'algorithme vous permet d'exécuter des calculs de bases (addition, soustraction et multiplication) de manière simple et direct.
