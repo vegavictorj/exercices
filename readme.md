@@ -24,9 +24,20 @@ def operation(x, y, j = 7):
 
     return somme, difference, produit
 
-operation(4, 6)
+operation(4, 6) ## vous pouvez définir vos variables entre ces parenthèses.
 
 Résultat: 17 -1 24
 
 ## Support
+Pour de l'assistance, vous pouvez me contacter par courriel à l'adresse suivante:
+e2296453@cmaisonneuve.qc.ca
 
+## Auteurs et remerciements
+Je veux remercier mon enseignant Keven Presseau qui, grâce à son expertise, me permet d'apprendre de manière efficace pour
+pouvoir créer des projets comme celui-ci. Je voudrais également remercier mes collègues de classe qui n'hésitent pas à s'entraider.
+
+## License
+À déterminer.
+
+## État du projet
+Complété.
